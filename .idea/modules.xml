@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/speed-converter.iml" filepath="$PROJECT_DIR$/speed-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/megabyte-converter.iml" filepath="$PROJECT_DIR$/megabyte-converter.iml" />
     </modules>
   </component>
 </project>
